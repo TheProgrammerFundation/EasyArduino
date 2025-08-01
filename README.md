@@ -6,3 +6,5 @@
 ## Functions
 "isPressed()" returns true or false if a button is pressed (true = pressed). You need to create an EasyButton object first.
 "begin()" initialises an object.
+
+#Created parcially with help of UPM's Tech Summer Camp
