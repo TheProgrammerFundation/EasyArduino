@@ -21,7 +21,8 @@ class Led {
     bool isOn();
     void toggle();
     void on();
-    void off();  
+    void off();
+    void pulse();
   private:uint8_t _pin;
 
 };
